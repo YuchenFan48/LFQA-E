@@ -1,7 +1,7 @@
 # LFQA-E: Carefully Benchmarking Long-Form QA Evaluation
 
 <p align="center">
-  <a href="https://openreview.net/forum?id=XXXXX"><img src="https://img.shields.io/badge/ICLR-2026-blue.svg" alt="ICLR 2026"></a>
+  <!-- <a href="https://openreview.net/forum?id=XXXXX"><img src="https://img.shields.io/badge/ICLR-2026-blue.svg" alt="ICLR 2026"></a> -->
   <a href="https://github.com/YuchenFan48/LFQA-E"><img src="https://img.shields.io/badge/GitHub-Repo-green.svg" alt="GitHub"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
 </p>
