@@ -83,7 +83,8 @@ Each record in the benchmark contains the following fields:
    - **Chinese**: College Entrance Examination Simulation Questions (CEESQ) and Postgraduate Entrance Examination Questions (PEEQ)
    - **English**: Reddit/ELI5 forum questions
 
-4. **Expert Annotation**: All data annotated by domain experts with substantial inter-annotator agreement (Cohen's κ ≈ 0.65).
+4. **Expert Annotation**: All data annotated by domain experts with substantial inter-annotator agreement 
+
 
 ## 📈 Benchmark Results
 
@@ -141,7 +142,7 @@ accuracy = evaluate_metric(your_metric, data)
 print(f"Accuracy: {accuracy:.2%}")
 ```
 
-## 📝 Citation
+<!-- ## 📝 Citation
 
 If you find LFQA-E useful in your research, please cite our paper:
 
@@ -152,13 +153,12 @@ If you find LFQA-E useful in your research, please cite our paper:
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2026}
 }
-```
+``` -->
 
 ## 📧 Contact
 
 For questions or issues, please contact:
 - Yuchen Fan: yuchenfan48@gmail.com
-- Bowen Zhou: zhoubowen@tsinghua.edu.cn
 
 ## 📜 License
 
@@ -167,12 +167,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 We thank all the annotators and domain experts who contributed to the construction of LFQA-E.
-
----
-
-<p align="center">
-  <b>Affiliations</b><br>
-  Tsinghua University | Shanghai AI Lab | Beijing University of Posts and Telecommunications<br>
-  Zhejiang University | Shanghai Jiao Tong University | The University of Tokyo
-</p>
-
